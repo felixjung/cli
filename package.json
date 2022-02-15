@@ -72,11 +72,11 @@
     "node": ">12.16"
   },
   "files": [
-    "/bin",
-    "/lib",
-    "/assets",
-    "/npm-shrinkwrap.json",
-    "/oclif.manifest.json"
+    "./bin",
+    "./lib",
+    "./assets",
+    "npm-shrinkwrap.json",
+    "oclif.manifest.json"
   ],
   "homepage": "https://github.com/asyncapi/cli",
   "keywords": [
